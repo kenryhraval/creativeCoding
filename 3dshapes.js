@@ -18,6 +18,6 @@ function draw() {
   rotateZ(angle*0.5);
   // rect(0,0,100,200);
   // box(100,200,100);
-  torus(200,50);
+  //torus(200,50);
   angle+=0.01;
 }
