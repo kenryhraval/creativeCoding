@@ -1,7 +1,7 @@
 // plane overlays using the same figure in multiple instances
 
 let grid;
-let w = 1000;
+let w = 1500;
 let h = 1000;
 
 let randomColors;
